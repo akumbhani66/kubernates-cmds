@@ -51,3 +51,4 @@ To create the Service :
 12. It may take a bit of time for Kubernetes to provision the cloud Load Balancer. You can track progress using the -w watch flag 
 
     `kubectl get svc -w`
+13. To get external ip, check Digital ocean dashboard inside loadbalancer.
