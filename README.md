@@ -1,5 +1,8 @@
 # kubernates-cmds
 
+* To init auth
+  `doctl auth init`
+
 1. To create namespace: 
 
   `kubectl create namespace name`
