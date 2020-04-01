@@ -58,4 +58,4 @@ To create the Service :
 
 
 * Bonus
-> (kubernates API v2 digitalocean)[https://developers.digitalocean.com/documentation/v2/#kubernetes]
+> [kubernates API v2 digitalocean](https://developers.digitalocean.com/documentation/v2/#kubernetes)
