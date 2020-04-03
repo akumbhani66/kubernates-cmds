@@ -62,6 +62,8 @@ To create the Service :
     `kubectl get svc -w`
 13. To get external ip, check Digital ocean dashboard inside loadbalancer.
 
+14. To get service information.
+    `kubectl describe service load-balancer`
 
 * Bonus
 > [kubernates API v2 digitalocean](https://developers.digitalocean.com/documentation/v2/#kubernetes)
