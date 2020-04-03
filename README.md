@@ -3,7 +3,7 @@
 tools:
 
 - [doctl](https://github.com/digitalocean/doctl)
-- [kubectl]()
+- [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 
 
 * To init auth
