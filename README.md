@@ -1,5 +1,11 @@
 # kubernates-cmds
 
+tools:
+
+- [doctl](https://github.com/digitalocean/doctl)
+- [kubectl]()
+
+
 * To init auth
   `doctl auth init`
 
