@@ -64,6 +64,10 @@ To create the Service :
 
 14. To get service information.
     `kubectl describe service load-balancer`
+    
+15. logs.
+    - `kubectl logs my-pod`
+    - `kubectl logs -f -l name=myLabel --all-containers    # stream all pods logs with label name=myLabel (stdout)`
 
 * Bonus
 > [kubernates API v2 digitalocean](https://developers.digitalocean.com/documentation/v2/#kubernetes)
