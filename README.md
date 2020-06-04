@@ -1,5 +1,7 @@
 # kubernates-cmds
 
+Basic kubectl command for my own use
+
 tools:
 
 - [doctl](https://github.com/digitalocean/doctl)
