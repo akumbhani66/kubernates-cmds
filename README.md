@@ -8,6 +8,8 @@ tools:
 - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl)
 
 
+commands:
+
 * To init auth
   `doctl auth init`
 
